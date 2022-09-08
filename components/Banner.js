@@ -17,7 +17,7 @@ const Banner = () => {
       </h1>
       <div className="flex flex-col justify-center gap-5 mb-10 sm:items-center sm:flex-row">
         <a
-          href="https://github.com/evondev/coding-ui"
+          href="https://github.com/nguyendu334/codingUi"
           target="_blank"
           rel="noreferrer"
           className="inline-flex items-center justify-center gap-x-3 px-8 py-4 font-sans font-semibold tracking-wide text-white bg-slate-800 rounded-lg h-[60px] w-full sm:w-[230px] button-effect"
@@ -26,7 +26,7 @@ const Banner = () => {
           View on Github
         </a>
         <a
-          href="https://fb.com/tuan.trananh.0509"
+          href="https://fb.com/haha193"
           target="_blank"
           className="inline-flex items-center justify-center gap-x-3 px-8 py-4 font-sans font-semibold tracking-wide text-white bg-gradient-primary rounded-lg h-[60px] w-full sm:w-[230px] button-effect"
           rel="noreferrer"
@@ -36,10 +36,10 @@ const Banner = () => {
         </a>
       </div>
       <div className="flex items-center justify-center gap-x-5">
-        <SocialIcon href="https://www.facebook.com/evondevblog">
+        <SocialIcon href="https://www.facebook.com/haha193">
           <IconFacebook />
         </SocialIcon>
-        <SocialIcon href="https://www.youtube.com/c/evondevfrontend">
+        <SocialIcon href="">
           <svg
             width="32"
             height="32"
@@ -56,10 +56,10 @@ const Banner = () => {
             />
           </svg>
         </SocialIcon>
-        <SocialIcon href="https://www.tiktok.com/@evon.dev">
+        <SocialIcon href="">
           <IconTiktok />
         </SocialIcon>
-        <SocialIcon href="https://evondev.com">
+        <SocialIcon href="">
           <IconWebsite />
         </SocialIcon>
       </div>
